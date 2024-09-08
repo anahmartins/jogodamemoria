@@ -42,8 +42,3 @@ let dados = [
     
     { titulo: "metal", id: 4, imagem: "https://img.freepik.com/vetores-gratis/lata-de-lata_107791-4892.jpg?t=st=1725751480~exp=1725755080~hmac=ab31aec8af80114baf361a82b20c3bbb5d6e42a34571782541fa1ba7129e230d&w=1380", informacao: "<p>Você sabia?</p><p>O metal é um material durável e resistente, amplamente utilizado em diversas aplicações. A reciclagem do metal é um processo eficiente e econômico, que permite a recuperação de quase 100% do material. Ao reciclar o metal, economizamos energia, reduzimos a mineração e diminuímos a exploração de recursos naturais.</p>" },
 ]
-{
-  "rewrites":  [
-    {"source": "/(.*)", "destination": "/"}
-  ]
-}
