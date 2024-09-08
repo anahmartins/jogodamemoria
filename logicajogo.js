@@ -75,4 +75,3 @@ function exibirInformacao(info) {
         console.error("Elemento de informação não encontrado.");
     }
 }
-{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
