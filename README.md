@@ -11,6 +11,7 @@ Cartas Interativas: As cartas têm um design visual atraente e são viradas com 
 Informações Educativas: A cada par encontrado, os jogadores recebem informações sobre o tipo de resíduo, incentivando o aprendizado contínuo sobre práticas de reciclagem.
 Estética Agradável: Utiliza fontes e estilos modernos para criar um visual cativante e intuitivo para crianças.
 Feedback Imediato: O jogo fornece feedback visual em tempo real, ajudando a manter o engajamento e a diversão.
+Teste aqui: https://jogodamemoria-xi.vercel.app
 
 Tecnologias Utilizadas:
 HTML: Estrutura básica da página e do jogo.
